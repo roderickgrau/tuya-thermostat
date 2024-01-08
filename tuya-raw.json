@@ -1,0 +1,87 @@
+{
+    "t": 1697837543158,
+    "file": {
+        "tinytuya": "1.12.4",
+        "account": "xxxxxx",
+        "date": "2023-10-20T17:32:23.909668",
+        "description": "Full raw list of Tuya devices.",
+        "name": "tuya-raw.json"
+    },
+    "tid": "xxxxxx",
+    "success": true,
+    "result": [
+        {
+            "product_name": "AC_603H_F",
+            "create_time": 1681242795,
+            "online": true,
+            "lat": "xx",
+            "uuid": "xxxxxx",
+            "time_zone": "-04:00",
+            "name": "Living room",
+            "active_time": 1681242795,
+            "local_key": "xxxxxx",
+            "icon": "smart/icon/ay15336238994207aJBu/bf9a8b4d23977667f09dac00f1cbd51d.png",
+            "biz_type": 0,
+            "ip": "xx",
+            "uid": "xxxxxx",
+            "id": "xxxxxx",
+            "status": [
+                {
+                    "code": "switch",
+                    "value": true
+                },
+                {
+                    "code": "mode",
+                    "value": "manual"
+                },
+                {
+                    "code": "window_check",
+                    "value": false
+                },
+                {
+                    "code": "frost",
+                    "value": false
+                },
+                {
+                    "code": "temp_set_f",
+                    "value": 45
+                },
+                {
+                    "code": "upper_temp_f",
+                    "value": 95
+                },
+                {
+                    "code": "window_state",
+                    "value": "close"
+                },
+                {
+                    "code": "temp_correction",
+                    "value": -2
+                },
+                {
+                    "code": "temp_current_f",
+                    "value": 67
+                },
+                {
+                    "code": "factory_reset",
+                    "value": false
+                },
+                {
+                    "code": "child_lock",
+                    "value": false
+                },
+                {
+                    "code": "sensor_choose",
+                    "value": "in"
+                }
+            ],
+            "product_id": "xxxxxx",
+            "sub": false,
+            "model": "AC_603H_F",
+            "category": "wk",
+            "update_time": 1697794720,
+            "lon": "xx",
+            "owner_id": "xx"
+        }
+    ]
+}

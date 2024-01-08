@@ -1,0 +1,40 @@
+{
+    "devices": [
+        {
+            "err": "",
+            "token": "",
+            "ip": "192.168.0.103",
+            "productKey": "xxxxxx",
+            "dev_type": "default",
+            "active": 2,
+            "ver": "3.3",
+            "dps": {
+                "dps": {
+                    "2": "manual",
+                    "25": "close",
+                    "40": false,
+                    "27": -2,
+                    "1": true,
+                    "29": 67,
+                    "18": 95,
+                    "17": 45,
+                    "101": 2,
+                    "102": 95,
+                    "10": false,
+                    "8": false,
+                    "43": "in"
+                }
+            },
+            "mac": "a0:92:08:xx:xx:xx",
+            "id": "xxxxxx",
+            "name": "Living room",
+            "type": "default",
+            "origin": "broadcast",
+            "ablilty": 0,
+            "wf_cfg": "",
+            "key": "xxxxxx",
+            "encrypt": true
+        }
+    ],
+    "timestamp": 1697837552.3895237
+}

@@ -1,0 +1,89 @@
+body {
+  background: #ddeadd;
+}
+
+h1 {
+  background: #ffffff;
+  border: 1px solid #000000;
+}
+
+div.setTemp {
+  border: none;
+}
+
+div.bigBox {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+
+}
+
+div.box {
+  text-align: center;
+  margin: auto;
+  width: 25%;
+  padding: 5px 5px 5px 5px;
+  border: 1px solid #000000;
+  background: #abeefe;
+  float: left;
+}
+
+.setTemp {
+  font-size: 20px;
+  border: none;
+  text-align: center;
+  background: #ffffff;
+}
+
+.currentTemp {
+  font-size: 60px;
+  border: none;
+  text-align: center;
+  background: #ffffff;
+}
+
+
+input {
+  width: 2em;
+}
+
+div.container {
+  margin: auto;
+  width: 165px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  border-radius: 45px;
+  overflow: hidden;
+}
+
+button#set {
+  border: 1px solid #000000;
+}
+
+button#set:hover {
+  background-color: #ffff00;
+  transition: 0.7s;
+}
+
+#weather {
+  float:left;
+  width: 175px;
+  padding: 20px;
+  margin: 40px 20px 20px 20px;
+}
+
+/* The alert message box */
+div.alert {
+  position: absolute;
+  bottom: 30px;
+  right: 30px;
+  align-items: flex-end;
+  flex-direction: column;
+  overflow: hidden;
+  width: 400px;
+  height: 40px;
+  padding: 20px;
+  background-color: #66FF00;
+  color: black;
+  margin-bottom: 15px;
+}

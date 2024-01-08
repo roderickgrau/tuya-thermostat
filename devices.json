@@ -1,0 +1,19 @@
+[
+    {
+        "product_name": "AC_603H_F",
+        "biz_type": 0,
+        "sn": "xxxxxx",
+        "ip": "xx.xx.xx.xx",
+        "uuid": "xxxxxx",
+        "mac": "xx:xx:xx:xx:xx:xx",
+        "id": "xxxxxxxx",
+        "name": "Living room",
+        "product_id": "xxxxxx",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/ay15336238994207aJBu/bf9a8b4d23977667f09dac00f1cbd51d.png",
+        "category": "wk",
+        "key": "xxxxxx",
+        "version": "3.3",
+        "model": "AC_603H_F"
+    }
+]
